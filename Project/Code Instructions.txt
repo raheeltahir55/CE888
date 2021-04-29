@@ -1,0 +1,9 @@
+Instructions about code files.
+
+1. Proj_MultiEval_Hate_ML (Code for Hate Speech Detection task using Naive Bayes and Support Vector Classifier)
+2. Proj_MultiEval_Emotion_LSTM_TL (Code for Emotion Recognition task using Bidirectional LSTM)
+3. Proj_MultiEval_Emotion_RoBERTA (Code for Emotion Recognition task using pre trained RoBERTA)
+4. Proj_MultiEval_Offensive_LSTM (Code for Offensive Language Detection task using Bidirectional LSTM)
+5. Proj_MultiEval_Offensive_RoBERTA (Code for Offensive Language Detection task using pre trained RoBERTA)
+6. mulieval_emotion_lstm.h5 (saved BLSTM model for emotion task)
+7. mulieval_offensive_lstm.h5 (saved BLSTM model for offensive task)
